@@ -10,7 +10,7 @@ This project is a web application for a pizza ordering system built with React a
 - **Fetch API**: For making HTTP requests to the backend API.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
-## How to Download and Launch Locally12:## How to Download and Launch Locally
+## How to Download and Launch Locally
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/RomaP28/fast-react-pizza.git
