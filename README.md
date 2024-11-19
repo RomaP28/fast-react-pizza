@@ -10,6 +10,10 @@ This project is a web application for a pizza ordering system built with React a
 - **Fetch API**: For making HTTP requests to the backend API.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
+## This project hosted and running on Netlify environment:
+
+https://673c9c8b55ae3a28a998b8c1--comfy-capybara-cee9a1.netlify.app/
+
 ## How to Download and Launch Locally
 1. **Clone the repository**:
    ```sh
