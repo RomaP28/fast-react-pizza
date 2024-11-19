@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # Fast React Pizza 🍕
 
 This project is a web application for a pizza ordering system built with React and Vite. It provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
